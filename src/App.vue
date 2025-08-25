@@ -88,7 +88,7 @@ async function startScanner() {
   controls.value = await codeReader.value.decodeFromVideoDevice(
     devId,
     videoRef.value,
-    (result, err) => {
+    (result) => {
       if (result) triggerSuccessUI(result.getText());
     }
   );
