@@ -1,0 +1,85 @@
+@import 'tailwindcss';
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+html,
+body,
+div,
+td,
+p {
+  padding: 0;
+  font-family: 'e-Ukraine', sans-serif;
+}
+
+.datatable {
+  font-size: 10px;
+}
+.datatable > div > table > thead > tr > th {
+  padding: 4px;
+  /*background: whitesmoke;*/
+}
+.datatable > div > table > thead > tr > th > div {
+  justify-content: center;
+}
+
+.c-w-40 {
+  width: 40px !important;
+  max-width: 40px !important;
+  min-width: 40px !important;
+}
+
+.c-w-50 {
+  width: 50px !important;
+  max-width: 50px !important;
+  min-width: 50px !important;
+}
+
+.c-w-60 {
+  width: 60px !important;
+  max-width: 60px !important;
+  min-width: 60px !important;
+}
+
+.c-w-65 {
+  width: 65px !important;
+  max-width: 65px !important;
+  min-width: 65px !important;
+}
+
+.c-w-70 {
+  width: 70px !important;
+  max-width: 70px !important;
+  min-width: 70px !important;
+}
+
+.c-w-80 {
+  width: 80px !important;
+  max-width: 80px !important;
+  min-width: 80px !important;
+}
+
+.c-w-90 {
+  width: 90px !important;
+  max-width: 90px !important;
+  min-width: 90px !important;
+}
+
+.c-w-100 {
+  width: 100px !important;
+  max-width: 100px !important;
+  min-width: 100px !important;
+}
+
+.c-w-120 {
+  width: 120px !important;
+  max-width: 120px !important;
+  min-width: 120px !important;
+}
+
+.c-w-150 {
+  width: 150px !important;
+  max-width: 150px !important;
+  min-width: 150px !important;
+}
